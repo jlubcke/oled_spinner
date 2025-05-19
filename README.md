@@ -1,3 +1,3 @@
 # OLED spinner
 
-.. image:: anim.git
+.. image:: anim.gif
